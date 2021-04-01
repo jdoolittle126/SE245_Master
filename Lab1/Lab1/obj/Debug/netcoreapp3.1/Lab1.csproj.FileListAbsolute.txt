@@ -1,0 +1,13 @@
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+E:\Workspaces\visual-studio-c#\Lab1\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache

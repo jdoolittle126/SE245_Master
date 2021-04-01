@@ -1,0 +1,22 @@
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.Form1.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.Properties.Resources.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.csproj.GenerateResource.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\bin\Debug\Doolittle_Lab5.exe.config
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\bin\Debug\Doolittle_Lab5.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\bin\Debug\Doolittle_Lab5.pdb
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.pdb
+E:\Workspaces\visual-studio-c#\Doolittle_Lab5\obj\Debug\Doolittle_Lab5.HintTextBox.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\bin\Debug\Doolittle_Lab5.exe.config
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\bin\Debug\Doolittle_Lab5.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\bin\Debug\Doolittle_Lab5.pdb
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.HintTextBox.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.Form1.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.Properties.Resources.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.csproj.GenerateResource.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab6 - Copy\obj\Debug\Doolittle_Lab5.pdb

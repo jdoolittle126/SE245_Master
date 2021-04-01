@@ -1,0 +1,13 @@
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.exe
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.deps.json
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.runtimeconfig.json
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.runtimeconfig.dev.json
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.dll
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\bin\Debug\netcoreapp3.1\DoolittleLab4.pdb
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\Doolittle_Lab4.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\Doolittle_Lab4.AssemblyInfoInputs.cache
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\Doolittle_Lab4.AssemblyInfo.cs
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\Doolittle_Lab4.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\DoolittleLab4.dll
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\DoolittleLab4.pdb
+E:\Workspaces\visual-studio-c#\Lab4\Lab4\obj\Debug\netcoreapp3.1\Doolittle_Lab4.genruntimeconfig.cache

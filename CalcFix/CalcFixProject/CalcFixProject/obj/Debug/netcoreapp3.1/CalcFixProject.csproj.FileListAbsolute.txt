@@ -1,0 +1,13 @@
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.exe
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.deps.json
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.runtimeconfig.json
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.runtimeconfig.dev.json
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.dll
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\bin\Debug\netcoreapp3.1\CalcFixProject.pdb
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.AssemblyInfoInputs.cache
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.AssemblyInfo.cs
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.dll
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.pdb
+E:\Workspaces\visual-studio-c#\CalcFix\CalcFixProject\CalcFixProject\obj\Debug\netcoreapp3.1\CalcFixProject.genruntimeconfig.cache

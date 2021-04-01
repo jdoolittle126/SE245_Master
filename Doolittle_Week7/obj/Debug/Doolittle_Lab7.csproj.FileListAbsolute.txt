@@ -1,0 +1,12 @@
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\Doolittle_Lab7.csprojAssemblyReference.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\DoolittleSE245.VisualComponents.FeedbackTextBox.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\DoolittleSE245.VisualComponents.ValidationTextBox.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\DoolittleSE245.Form1.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\DoolittleSE245.Properties.Resources.resources
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\Doolittle_Lab7.csproj.GenerateResource.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\Doolittle_Lab7.csproj.CoreCompileInputs.cache
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\bin\Debug\Doolittle_Lab7.exe.config
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\bin\Debug\Doolittle_Lab7.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\bin\Debug\Doolittle_Lab7.pdb
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\Doolittle_Lab7.exe
+E:\Workspaces\visual-studio-c#\Doolittle_Lab7\obj\Debug\Doolittle_Lab7.pdb
